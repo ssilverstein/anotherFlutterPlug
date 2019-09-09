@@ -1,5 +1,5 @@
-class MyOther {
-  String name = 'What What';
+class WhatWhat {
+  String name = 'WhatWhat';
   int _counter = 0;
 
   get getCounter => _counter;
